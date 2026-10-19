@@ -35,9 +35,9 @@ Welcome to **GenieDoc**, an innovative application that turns static PDF content
 
 This project was developed by:
 
-- [**Anurag**](https://github.com/the-wilful-youth)
+- [**Sahil**]
 - [**Dhawal**](https://github.com/techbolt)
-- [**Animesh**](https://github.com/anigupta0207)
+- [**Pushpak**]
 
 Explore their GitHub profiles to discover more of their amazing work!
 
